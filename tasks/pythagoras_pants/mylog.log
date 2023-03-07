@@ -1,0 +1,6 @@
+INFO:root:Enter in the find_triangle() function args = [5, 3, 4]
+INFO:root:Enter in the find_triangle() function args = ['ty', 8, 10]
+ERROR:root:TypeError
+INFO:root:Enter in the find_triangle() function args = [5, 3, 4]
+INFO:root:Enter in the find_triangle() function args = [6, 8, 10]
+INFO:root:Enter in the find_triangle() function args = [100, 3, 65]
