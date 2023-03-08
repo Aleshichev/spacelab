@@ -1,0 +1,6 @@
+2023-03-08T20:15:34.675890+0200 INFO Enter in the find_winner() function zombies = [1, 3, 5, 7], plants=[2, 4, 6, 8]
+2023-03-08T20:15:34.678891+0200 INFO Enter in the find_winner() function zombies = [1, 3, 5, 7], plants=[2, 4]
+2023-03-08T20:15:34.681897+0200 INFO Enter in the find_winner() function zombies = [1, 3, 5, 7], plants=[2, 4, 0, 8]
+2023-03-08T20:15:34.688938+0200 INFO Enter in the find_winner() function zombies = [2, 1, 1, 1], plants=[1, 2, 1, 1]
+2023-03-08T20:15:34.691897+0200 INFO Enter in the find_winner() function zombies = [12], plants=[4, 22, 11, 8]
+2023-03-08T20:15:34.694892+0200 ERROR IndexError

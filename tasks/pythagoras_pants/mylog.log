@@ -1,6 +1,5 @@
-INFO:root:Enter in the find_triangle() function args = [5, 3, 4]
-INFO:root:Enter in the find_triangle() function args = ['ty', 8, 10]
-ERROR:root:TypeError
-INFO:root:Enter in the find_triangle() function args = [5, 3, 4]
-INFO:root:Enter in the find_triangle() function args = [6, 8, 10]
-INFO:root:Enter in the find_triangle() function args = [100, 3, 65]
+20:16:22 - pants - INFO - find_triangle: 12 - Enter in the find_triangle() function args = [5, 3, 4]
+20:16:22 - pants - INFO - find_triangle: 12 - Enter in the find_triangle() function args = [6, 8, 10]
+20:16:22 - pants - INFO - find_triangle: 12 - Enter in the find_triangle() function args = [100, 3, 65]
+20:16:22 - pants - INFO - find_triangle: 12 - Enter in the find_triangle() function args = 21
+20:16:22 - pants - ERROR - <module>: 28 - TypeError
