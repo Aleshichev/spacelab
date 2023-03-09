@@ -1,0 +1,67 @@
+2023-03-09T15:39:24.969775+0200 INFO Enter in the timetable() function data = {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:39:24.976053+0200 ERROR An error has been caught in function '<module>', process 'MainProcess' (11040), thread 'MainThread' (5568):
+Traceback (most recent call last):
+
+> File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 47, in <module>
+    print(timetable(data))
+          │         └ {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+          └ <function timetable at 0x000001C7B52055A0>
+
+  File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 19, in timetable
+    work_days = data["work_days"]
+                └ {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+
+KeyError: 'work_days'
+2023-03-09T15:40:31.457623+0200 INFO Enter in the timetable() function data = {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:40:31.463227+0200 ERROR An error has been caught in function '<module>', process 'MainProcess' (7340), thread 'MainThread' (16420):
+Traceback (most recent call last):
+
+> File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 47, in <module>
+    print(timetable(data))
+          │         └ {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+          └ <function timetable at 0x000001DA7B8E5510>
+
+  File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 19, in timetable
+    work_days = data["work_days"]
+                └ {'days': 7, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+
+KeyError: 'work_days'
+2023-03-09T15:41:15.910108+0200 INFO Enter in the timetable() function data = {'days': 7, 'work_days': 'y', 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:41:15.924704+0200 ERROR An error has been caught in function '<module>', process 'MainProcess' (2312), thread 'MainThread' (11040):
+Traceback (most recent call last):
+
+> File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 48, in <module>
+    print(timetable(data))
+          │         └ {'days': 7, 'work_days': 'y', 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+          └ <function timetable at 0x00000183B74D5510>
+
+  File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 22, in timetable
+    while work_days > 0:
+          └ 'y'
+
+TypeError: '>' not supported between instances of 'str' and 'int'
+2023-03-09T15:42:07.847274+0200 INFO Enter in the timetable() function data = 5
+2023-03-09T15:42:07.852985+0200 ERROR An error has been caught in function '<module>', process 'MainProcess' (7868), thread 'MainThread' (12404):
+Traceback (most recent call last):
+
+> File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 49, in <module>
+    print(timetable(data))
+          │         └ 5
+          └ <function timetable at 0x00000267FAA95510>
+
+  File "c:\Users\Ihor\Documents\Spacelab\tasks\timetable\main.py", line 13, in timetable
+    start_date = data["start_date"] - timedelta(days=1)
+                 │                    └ <class 'datetime.timedelta'>
+                 └ 5
+
+TypeError: 'int' object is not subscriptable
+2023-03-09T15:42:31.614651+0200 INFO Enter in the timetable() function data = 5
+2023-03-09T15:42:31.632579+0200 ERROR TypeError
+2023-03-09T15:43:15.583320+0200 INFO Enter in the timetable() function data = 5
+2023-03-09T15:43:15.597107+0200 ERROR TypeError ошибка типа
+2023-03-09T15:43:56.605528+0200 INFO Enter in the timetable() function data = {'days': 7, 'work_days': 'y', 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:43:56.612871+0200 ERROR TypeError ошибка типа
+2023-03-09T15:44:16.369906+0200 INFO Enter in the timetable() function data = {'days': 7, 'work_days': 2, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:44:16.386279+0200 ERROR Ошибка ключа
+2023-03-09T15:45:56.391271+0200 INFO Enter in the timetable() function data = {'days': 7, 'work_days': 2, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
+2023-03-09T15:46:05.758503+0200 INFO Enter in the timetable() function data = {'days': 5, 'work_days': 2, 'rest_days': 1, 'start_date': datetime.datetime(2020, 1, 30, 0, 0)}
