@@ -15,7 +15,7 @@ def first_max_power(zombies, plants):
 def is_new_plants_equals_new_zombies(new_plants, new_zombies, zombies, plants):
     if len(new_zombies) == len(new_plants):
         return first_max_power(zombies, plants)
-   
+
 def compare_commands_lengths(new_zombies, new_plants, zombies, plants):
     if is_new_plants(new_plants, new_zombies):
         return True

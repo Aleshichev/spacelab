@@ -1,0 +1,1691 @@
+{
+    "laptops": [
+        {
+            "title": "Packard 255 G2",
+            "descriptions": [
+                "15.6\"",
+                " AMD E2-3800 1.3GHz",
+                " 4GB",
+                " 500GB",
+                " Windows 8.1"
+            ],
+            "Price HDD 128 $": "416.99",
+            "Price HDD 256 $": "436.99",
+            "Price HDD 512 $": "456.99"
+        },
+        {
+            "title": "Aspire E1-510",
+            "descriptions": [
+                "15.6\"",
+                " Pentium N3520 2.16GHz",
+                " 4GB",
+                " 500GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "306.99",
+            "Price HDD 256 $": "326.99",
+            "Price HDD 512 $": "346.99"
+        },
+        {
+            "title": "ThinkPad T540p",
+            "descriptions": [
+                "15.6\"",
+                " Core i5-4200M",
+                " 4GB",
+                " 500GB",
+                " Win7 Pro 64bit"
+            ],
+            "Price HDD 128 $": "1178.99",
+            "Price HDD 256 $": "1198.99",
+            "Price HDD 512 $": "1218.99"
+        },
+        {
+            "title": "ProBook",
+            "descriptions": [
+                "14\"",
+                " Core i5 2.6GHz",
+                " 4GB",
+                " 500GB",
+                " Win7 Pro 64bit"
+            ],
+            "Price HDD 128 $": "739.99",
+            "Price HDD 256 $": "759.99",
+            "Price HDD 512 $": "779.99"
+        },
+        {
+            "title": "ThinkPad X240",
+            "descriptions": [
+                "12.5\"",
+                " Core i5-4300U",
+                " 8GB",
+                " 240GB SSD",
+                " Win7 Pro 64bit"
+            ],
+            "Price HDD 128 $": "1311.99",
+            "Price HDD 256 $": "1331.99",
+            "Price HDD 512 $": "1351.99"
+        },
+        {
+            "title": "Aspire E1-572G",
+            "descriptions": [
+                "15.6\"",
+                " Core i5-4200U",
+                " 8GB",
+                " 1TB",
+                " Radeon R7 M265",
+                " Windows 8.1"
+            ],
+            "Price HDD 128 $": "581.99",
+            "Price HDD 256 $": "601.99",
+            "Price HDD 512 $": "621.99"
+        },
+        {
+            "title": "ThinkPad Yoga",
+            "descriptions": [
+                "12.5\" Touch",
+                " Core i3-4010U",
+                " 4GB",
+                " 500GB + 16GB SSD Cache",
+                ""
+            ],
+            "Price HDD 128 $": "1033.99",
+            "Price HDD 256 $": "1053.99",
+            "Price HDD 512 $": "1073.99"
+        },
+        {
+            "title": "Pavilion",
+            "descriptions": [
+                "15.6\"",
+                " Core i5-4200U",
+                " 6GB",
+                " 750GB",
+                " Windows 8.1"
+            ],
+            "Price HDD 128 $": "609.99",
+            "Price HDD 256 $": "629.99",
+            "Price HDD 512 $": "649.99"
+        },
+        {
+            "title": "Inspiron 15",
+            "descriptions": [
+                "Moon Silver",
+                " 15.6\"",
+                " Core i7-4510U",
+                " 8GB",
+                " 1TB",
+                " Radeon HD R7 M265 2GB",
+                ""
+            ],
+            "Price HDD 128 $": "745.99",
+            "Price HDD 256 $": "765.99",
+            "Price HDD 512 $": "785.99"
+        },
+        {
+            "title": "Dell XPS 13",
+            "descriptions": [
+                "13.3\" Touch",
+                " Core i5-4210U",
+                " 8GB",
+                " 128GB SSD",
+                " Windows 8.1"
+            ],
+            "Price HDD 128 $": "1281.99",
+            "Price HDD 256 $": "1301.99",
+            "Price HDD 512 $": "1321.99"
+        },
+        {
+            "title": "ThinkPad X230",
+            "descriptions": [
+                "12.5\"",
+                " Core i5 2.6GHz",
+                " 8GB",
+                " 180GB SSD",
+                " Win7 Pro 64bit"
+            ],
+            "Price HDD 128 $": "1244.99",
+            "Price HDD 256 $": "1264.99",
+            "Price HDD 512 $": "1284.99"
+        },
+        {
+            "title": "HP 250 G3",
+            "descriptions": [
+                "15.6\"",
+                " Core\u00a0i5-4210U",
+                " 4GB",
+                " 500GB",
+                " Windows 8.1"
+            ],
+            "Price HDD 128 $": "520.99",
+            "Price HDD 256 $": "540.99",
+            "Price HDD 512 $": "560.99"
+        },
+        {
+            "title": "ThinkPad Yoga",
+            "descriptions": [
+                "12.5\" Touch",
+                " Core i5 4200U",
+                " 8GB",
+                " 500GB + 16GB SSD Cache",
+                " Windows"
+            ],
+            "Price HDD 128 $": "1223.99",
+            "Price HDD 256 $": "1243.99",
+            "Price HDD 512 $": "1263.99"
+        },
+        {
+            "title": "HP 350 G1",
+            "descriptions": [
+                "15.6\"",
+                " Core i5-4200U",
+                " 4GB",
+                " 750GB",
+                " Radeon HD8670M 2GB",
+                " Windows"
+            ],
+            "Price HDD 128 $": "577.99",
+            "Price HDD 256 $": "597.99",
+            "Price HDD 512 $": "617.99"
+        },
+        {
+            "title": "Asus VivoBook Max",
+            "descriptions": [
+                "Asus VivoBook Max X541NA-GQ041 Black Chocolate",
+                " 15.6\" HD",
+                " Pentium N4200 1.1GHz",
+                " 4GB",
+                " 500GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "399.00",
+            "Price HDD 256 $": "419",
+            "Price HDD 512 $": "439"
+        },
+        {
+            "title": "Dell Vostro 15",
+            "descriptions": [
+                "Dell Vostro 15 (3568) Black",
+                " 15.6\" FHD",
+                " Core i5-7200U",
+                " 4GB",
+                " 128GB SSD",
+                " Radeon R5 M420 2GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "488.78",
+            "Price HDD 256 $": "508.78",
+            "Price HDD 512 $": "528.78"
+        },
+        {
+            "title": "Acer Spin 5",
+            "descriptions": [
+                "Acer Spin 5 SP513-51 Black",
+                " 13.3\" FHD Touch",
+                " Core i3-7100U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "564.98",
+            "Price HDD 256 $": "584.98",
+            "Price HDD 512 $": "604.98"
+        },
+        {
+            "title": "Acer Aspire A515-51-5654",
+            "descriptions": [
+                "Acer Aspire A515-51-5654",
+                " Black",
+                " 15.6\"",
+                " FHD",
+                " Core i5-8250U",
+                " 8GB DDR4",
+                " 256GB SSD",
+                " Windows 10 Home",
+                " ENG"
+            ],
+            "Price HDD 128 $": "679.00",
+            "Price HDD 256 $": "699",
+            "Price HDD 512 $": "719"
+        },
+        {
+            "title": "Dell Inspiron 15",
+            "descriptions": [
+                "Dell Inspiron 15 (5567) Fog Gray",
+                " 15.6\" FHD",
+                " Core i5-7200U",
+                " 8GB",
+                " 1TB",
+                " Radeon R7 M445 4GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "679.00",
+            "Price HDD 256 $": "699",
+            "Price HDD 512 $": "719"
+        },
+        {
+            "title": "Asus VivoBook S14",
+            "descriptions": [
+                "Asus VivoBook S14 (S406UA-BV041T) Starry Grey",
+                " 14\"",
+                " Core i5-8250U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "729.00",
+            "Price HDD 256 $": "749",
+            "Price HDD 512 $": "769"
+        },
+        {
+            "title": "Asus ROG STRIX GL553VD-DM256",
+            "descriptions": [
+                "Asus ROG STRIX GL553VD-DM256",
+                " 15.6\" FHD",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 1TB",
+                " GeForce GTX 1050 2GB",
+                " No OS"
+            ],
+            "Price HDD 128 $": "799.00",
+            "Price HDD 256 $": "819",
+            "Price HDD 512 $": "839"
+        },
+        {
+            "title": "Acer Nitro 5 AN515-51",
+            "descriptions": [
+                "Acer Nitro 5 AN515-51",
+                " 15.6\" FHD IPS",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 1TB",
+                " GeForce GTX 1050 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "809.00",
+            "Price HDD 256 $": "829",
+            "Price HDD 512 $": "849"
+        },
+        {
+            "title": "Asus ROG STRIX GL553VD-DM256",
+            "descriptions": [
+                "Asus ROG STRIX GL553VD-DM256",
+                " 15.6\" FHD",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 1TB",
+                " GeForce GTX 1050 2GB",
+                " No OS + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "899.00",
+            "Price HDD 256 $": "919",
+            "Price HDD 512 $": "939"
+        },
+        {
+            "title": "Lenovo ThinkPad L570",
+            "descriptions": [
+                "Lenovo ThinkPad L570",
+                " 15.6\" FHD",
+                " Core i7-7500U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "999.00",
+            "Price HDD 256 $": "1019",
+            "Price HDD 512 $": "1039"
+        },
+        {
+            "title": "Lenovo Legion Y520-15IKBM",
+            "descriptions": [
+                "Lenovo Legion Y520-15IKBM",
+                " 15.6\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 128GB SSD + 1TB",
+                " GeForce GTX 1060 Max-Q 6GB",
+                " DOS"
+            ],
+            "Price HDD 128 $": "1149.00",
+            "Price HDD 256 $": "1169",
+            "Price HDD 512 $": "1189"
+        },
+        {
+            "title": "Lenovo Legion Y720",
+            "descriptions": [
+                "Lenovo Legion Y720",
+                " 15.6\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 128GB SSD + 2TB HDD",
+                " GeForce GTX 1060 6GB",
+                " DOS",
+                " RGB backlit keyboard"
+            ],
+            "Price HDD 128 $": "1399.00",
+            "Price HDD 256 $": "1419",
+            "Price HDD 512 $": "1439"
+        },
+        {
+            "title": "Asus ROG Strix GL702ZC-GC154T",
+            "descriptions": [
+                "Asus ROG Strix GL702ZC-GC154T",
+                " 17.3\" FHD",
+                " Ryzen 7 1700",
+                " 16GB",
+                " 256GB + 1TB HDD",
+                " Radeon RX 580 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1769.00",
+            "Price HDD 256 $": "1789",
+            "Price HDD 512 $": "1809"
+        },
+        {
+            "title": "Asus ROG Strix GL702ZC-GC209T",
+            "descriptions": [
+                "Asus ROG Strix GL702ZC-GC209T",
+                " 17.3\" FHD IPS",
+                " Ryzen 7 1700",
+                " 16GB",
+                " 256GB SSD + 1TB HDD",
+                " Radeon RX 580 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1769.00",
+            "Price HDD 256 $": "1789",
+            "Price HDD 512 $": "1809"
+        },
+        {
+            "title": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+            "descriptions": [
+                "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+                " 15.6\" FHD 120Hz",
+                " Core i7-7700HQ",
+                " 16GB",
+                " 256GB SSD + 1TB SSHD",
+                " GeForce GTX 1060 6GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1799.00",
+            "Price HDD 256 $": "1819",
+            "Price HDD 512 $": "1839"
+        },
+        {
+            "title": "Asus VivoBook X441NA-GA190",
+            "descriptions": [
+                "Asus VivoBook X441NA-GA190 Chocolate Black",
+                " 14\"",
+                " Celeron N3450",
+                " 4GB",
+                " 128GB SSD",
+                " Endless OS",
+                " ENG kbd"
+            ],
+            "Price HDD 128 $": "295.99",
+            "Price HDD 256 $": "315.99",
+            "Price HDD 512 $": "335.99"
+        },
+        {
+            "title": "Prestigio SmartBook 133S Dark Grey",
+            "descriptions": [
+                "Prestigio SmartBook 133S Dark Grey",
+                " 13.3\" FHD IPS",
+                " Celeron N3350 1.1GHz",
+                " 4GB",
+                " 32GB",
+                " Windows 10 Pro + Office 365 1 gadam"
+            ],
+            "Price HDD 128 $": "299.00",
+            "Price HDD 256 $": "319",
+            "Price HDD 512 $": "339"
+        },
+        {
+            "title": "Prestigio SmartBook 133S Gold",
+            "descriptions": [
+                "Prestigio SmartBook 133S Gold",
+                " 13.3\" FHD IPS",
+                " Celeron N3350 1.1GHz",
+                " 4GB",
+                " 32GB",
+                " Windows 10 Pro + Office 365 1 gadam"
+            ],
+            "Price HDD 128 $": "299.00",
+            "Price HDD 256 $": "319",
+            "Price HDD 512 $": "339"
+        },
+        {
+            "title": "Lenovo V110-15IAP",
+            "descriptions": [
+                "Lenovo V110-15IAP",
+                " 15.6\" HD",
+                " Celeron N3350 1.1GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "321.94",
+            "Price HDD 256 $": "341.94",
+            "Price HDD 512 $": "361.94"
+        },
+        {
+            "title": "Lenovo V110-15IAP",
+            "descriptions": [
+                "Asus VivoBook 15 X540NA-GQ008T Chocolate Black",
+                " 15.6\" HD",
+                " Pentium N4200",
+                " 4GB",
+                " 500GB",
+                " Windows 10 Home",
+                " En kbd"
+            ],
+            "Price HDD 128 $": "356.49",
+            "Price HDD 256 $": "376.49",
+            "Price HDD 512 $": "396.49"
+        },
+        {
+            "title": "Hewlett Packard 250 G6 Dark Ash Silver",
+            "descriptions": [
+                "Hewlett Packard 250 G6 Dark Ash Silver",
+                " 15.6\" HD",
+                " Celeron N3060 1.6GHz",
+                " 4GB",
+                " 128GB SSD",
+                " DOS"
+            ],
+            "Price HDD 128 $": "364.46",
+            "Price HDD 256 $": "384.46",
+            "Price HDD 512 $": "404.46"
+        },
+        {
+            "title": "Acer Aspire 3 A315-31 Black",
+            "descriptions": [
+                "Acer Aspire 3 A315-31 Black",
+                " 15.6\" HD",
+                " Celeron N3350 1.1GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "372.70",
+            "Price HDD 256 $": "392.7",
+            "Price HDD 512 $": "412.7"
+        },
+        {
+            "title": "Acer Aspire A315-31-C33J",
+            "descriptions": [
+                "Acer Aspire A315-31-C33J Black 15.6\"",
+                " HD",
+                " Celeron N3350",
+                " 4GB DDR3L",
+                " 128GB",
+                " Windows 10 Home",
+                " ENG"
+            ],
+            "Price HDD 128 $": "379.94",
+            "Price HDD 256 $": "399.94",
+            "Price HDD 512 $": "419.94"
+        },
+        {
+            "title": "Acer Aspire ES1-572 Black",
+            "descriptions": [
+                "Acer Aspire ES1-572 Black",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 128GB SSD",
+                " Linux"
+            ],
+            "Price HDD 128 $": "379.95",
+            "Price HDD 256 $": "399.95",
+            "Price HDD 512 $": "419.95"
+        },
+        {
+            "title": "Acer Aspire 3 A315-31 Black",
+            "descriptions": [
+                "Acer Aspire 3 A315-31 Black",
+                " 15.6\" HD",
+                " Pentium N4200 1.1GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "391.48",
+            "Price HDD 256 $": "411.48",
+            "Price HDD 512 $": "431.48"
+        },
+        {
+            "title": "Acer Aspire 3 A315-21",
+            "descriptions": [
+                "Acer Aspire 3 A315-21",
+                " 15.6\"",
+                " AMD A4-9120. 4GB. 128GB SSD",
+                " Linux"
+            ],
+            "Price HDD 128 $": "393.88",
+            "Price HDD 256 $": "413.88",
+            "Price HDD 512 $": "433.88"
+        },
+        {
+            "title": "Asus VivoBook E502NA-GO022T Dark Blue",
+            "descriptions": [
+                "Asus VivoBook E502NA-GO022T Dark Blue",
+                " 15.6\" HD",
+                " Pentium N4200 1.1GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home",
+                " En/Ru kbd"
+            ],
+            "Price HDD 128 $": "399.99",
+            "Price HDD 256 $": "419.99",
+            "Price HDD 512 $": "439.99"
+        },
+        {
+            "title": "Lenovo ThinkPad E31-80",
+            "descriptions": [
+                "Lenovo ThinkPad E31-80",
+                " 13.3\" HD",
+                " Celeron 3855U 1.6GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "404.23",
+            "Price HDD 256 $": "424.23",
+            "Price HDD 512 $": "444.23"
+        },
+        {
+            "title": "Acer Aspire 3 A315-31 Black",
+            "descriptions": [
+                "Acer Aspire 3 A315-31 Black",
+                " 15.6\" HD",
+                " Pentium N4200 1.1GHz",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "408.98",
+            "Price HDD 256 $": "428.98",
+            "Price HDD 512 $": "448.98"
+        },
+        {
+            "title": "Lenovo V110-15ISK",
+            "descriptions": [
+                "Lenovo V110-15ISK",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 8GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "409.63",
+            "Price HDD 256 $": "429.63",
+            "Price HDD 512 $": "449.63"
+        },
+        {
+            "title": "Acer Aspire ES1-732 Black",
+            "descriptions": [
+                "Acer Aspire ES1-732 Black",
+                " 17.3\" HD+",
+                " Celeron",
+                " N3350",
+                " 4GB",
+                " 1TB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "410.46",
+            "Price HDD 256 $": "430.46",
+            "Price HDD 512 $": "450.46"
+        },
+        {
+            "title": "Asus VivoBook 15 X540NA-GQ026T",
+            "descriptions": [
+                "Asus VivoBook 15 X540NA-GQ026T Chocolate Black",
+                " 15.6\" HD",
+                " Pentium N4200",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home",
+                " En/Ru kbd"
+            ],
+            "Price HDD 128 $": "410.66",
+            "Price HDD 256 $": "430.66",
+            "Price HDD 512 $": "450.66"
+        },
+        {
+            "title": "Asus EeeBook R416NA-FA014T",
+            "descriptions": [
+                "Asus EeeBook R416NA-FA014T",
+                " 14\" FHD",
+                " Pentium N4200",
+                " 4GB",
+                " 128GB eMMC",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "433.30",
+            "Price HDD 256 $": "453.3",
+            "Price HDD 512 $": "473.3"
+        },
+        {
+            "title": "Acer Aspire 3 A315-51",
+            "descriptions": [
+                "Acer Aspire 3 A315-51",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 1TB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "436.29",
+            "Price HDD 256 $": "456.29",
+            "Price HDD 512 $": "476.29"
+        },
+        {
+            "title": "Acer Aspire ES1-572 Black",
+            "descriptions": [
+                "Acer Aspire ES1-572 Black",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 500GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "436.29",
+            "Price HDD 256 $": "456.29",
+            "Price HDD 512 $": "476.29"
+        },
+        {
+            "title": "Acer Extensa 15 (2540) Black",
+            "descriptions": [
+                "Acer Extensa 15 (2540) Black",
+                " 15.6\" HD",
+                " Core i5-7200U",
+                " 4GB",
+                " 500GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "439.73",
+            "Price HDD 256 $": "459.73",
+            "Price HDD 512 $": "479.73"
+        },
+        {
+            "title": "Acer Aspire ES1-572 Black",
+            "descriptions": [
+                "Acer Aspire ES1-572 Black",
+                " 15.6\" HD",
+                " Core i5-7200U",
+                " 4GB",
+                " 500GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "454.62",
+            "Price HDD 256 $": "474.62",
+            "Price HDD 512 $": "494.62"
+        },
+        {
+            "title": "Lenovo V110-15ISK",
+            "descriptions": [
+                "Lenovo V110-15ISK",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "454.73",
+            "Price HDD 256 $": "474.73",
+            "Price HDD 512 $": "494.73"
+        },
+        {
+            "title": "Acer Aspire A315-51-33TG",
+            "descriptions": [
+                "Acer Aspire A315-51-33TG",
+                " Black 15.6\" HD",
+                " Core i3-7100U",
+                " 4GB DDR4",
+                " 128GB SSD",
+                " Windows 10 Home",
+                " ENG"
+            ],
+            "Price HDD 128 $": "457.38",
+            "Price HDD 256 $": "477.38",
+            "Price HDD 512 $": "497.38"
+        },
+        {
+            "title": "Lenovo V110-15IKB",
+            "descriptions": [
+                "Lenovo V110-15IKB",
+                " 15.6\" HD",
+                " Core i5-7200U",
+                " 4GB",
+                " 500GB",
+                " DOS"
+            ],
+            "Price HDD 128 $": "465.95",
+            "Price HDD 256 $": "485.95",
+            "Price HDD 512 $": "505.95"
+        },
+        {
+            "title": "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+            "descriptions": [
+                "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+                " 15.6\" FHD",
+                " Core i3-6006U",
+                " 4GB",
+                " 256GB SSD",
+                " Endless OS",
+                " En kbd"
+            ],
+            "Price HDD 128 $": "468.56",
+            "Price HDD 256 $": "488.56",
+            "Price HDD 512 $": "508.56"
+        },
+        {
+            "title": "Acer Aspire ES1-572 Black",
+            "descriptions": [
+                "Acer Aspire ES1-572 Black",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "469.10",
+            "Price HDD 256 $": "489.1",
+            "Price HDD 512 $": "509.1"
+        },
+        {
+            "title": "Lenovo V510 Black",
+            "descriptions": [
+                "Lenovo V510 Black",
+                " 14\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "484.23",
+            "Price HDD 256 $": "504.23",
+            "Price HDD 512 $": "524.23"
+        },
+        {
+            "title": "Acer Aspire ES1-572 Black",
+            "descriptions": [
+                "Acer Aspire ES1-572 Black",
+                " 15.6\" HD",
+                " Core i5-7200U",
+                " 4GB",
+                " 128GB SSD",
+                " Linux"
+            ],
+            "Price HDD 128 $": "485.90",
+            "Price HDD 256 $": "505.9",
+            "Price HDD 512 $": "525.9"
+        },
+        {
+            "title": "Lenovo V510 Black",
+            "descriptions": [
+                "Lenovo V510 Black",
+                " 15.6\" HD",
+                " Core i3-6006U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "487.80",
+            "Price HDD 256 $": "507.8",
+            "Price HDD 512 $": "527.8"
+        },
+        {
+            "title": "Acer Swift 1 SF113-31 Silver",
+            "descriptions": [
+                "Acer Swift 1 SF113-31 Silver",
+                " 13.3\" FHD",
+                " Pentium N4200",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "488.64",
+            "Price HDD 256 $": "508.64",
+            "Price HDD 512 $": "528.64"
+        },
+        {
+            "title": "Acer Aspire 3 A315-51 Black",
+            "descriptions": [
+                "Acer Aspire 3 A315-51 Black",
+                " 15.6\" FHD",
+                " Core i3-7100U",
+                " 4GB",
+                " 500GB + 128GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "494.71",
+            "Price HDD 256 $": "514.71",
+            "Price HDD 512 $": "534.71"
+        },
+        {
+            "title": "Dell Vostro 15 (3568) Red",
+            "descriptions": [
+                "Dell Vostro 15 (3568) Red",
+                " 15.6\" HD",
+                " Core i5-7200U",
+                " 4GB",
+                " 1TB",
+                " Radeon R5 M420 2GB",
+                " Linux"
+            ],
+            "Price HDD 128 $": "497.17",
+            "Price HDD 256 $": "517.1700000000001",
+            "Price HDD 512 $": "537.1700000000001"
+        },
+        {
+            "title": "Lenovo V510 Black",
+            "descriptions": [
+                "Lenovo V510 Black",
+                " 15.6\" FHD",
+                " Core i3-7100U",
+                " 4GB",
+                " 128GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "498.23",
+            "Price HDD 256 $": "518.23",
+            "Price HDD 512 $": "538.23"
+        },
+        {
+            "title": "Lenovo ThinkPad L460",
+            "descriptions": [
+                "Lenovo ThinkPad L460",
+                " 14\" FHD IPS",
+                " Core i7-6600U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1096.02",
+            "Price HDD 256 $": "1116.02",
+            "Price HDD 512 $": "1136.02"
+        },
+        {
+            "title": "Dell Inspiron 15 (7567) Black",
+            "descriptions": [
+                "Dell Inspiron 15 (7567) Black",
+                " 15.6\" FHD",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 256GB SSD",
+                " GeForce GTX 1050 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1098.42",
+            "Price HDD 256 $": "1118.42",
+            "Price HDD 512 $": "1138.42"
+        },
+        {
+            "title": "MSI GL72M 7RDX",
+            "descriptions": [
+                "MSI GL72M 7RDX",
+                " 17.3\" FHD",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1099.00",
+            "Price HDD 256 $": "1119",
+            "Price HDD 512 $": "1139"
+        },
+        {
+            "title": "MSI GL72M 7RDX",
+            "descriptions": [
+                "Asus ROG Strix GL553VD-DM535T",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 2GB",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1099.00",
+            "Price HDD 256 $": "1119",
+            "Price HDD 512 $": "1139"
+        },
+        {
+            "title": "Asus ROG Strix GL553VD-DM535T",
+            "descriptions": [
+                "Apple MacBook Air 13.3\"",
+                " Core i5 1.8GHz",
+                " 8GB",
+                " 128GB SSD",
+                " Intel HD 4000",
+                " RUS"
+            ],
+            "Price HDD 128 $": "1101.83",
+            "Price HDD 256 $": "1121.83",
+            "Price HDD 512 $": "1141.83"
+        },
+        {
+            "title": "Dell Latitude 5280",
+            "descriptions": [
+                "Dell Latitude 5280",
+                " 12.5\" HD",
+                " Core i5-7300U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1102.66",
+            "Price HDD 256 $": "1122.66",
+            "Price HDD 512 $": "1142.66"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i5-7300U",
+                " 8GB",
+                " 500GB",
+                " Linux + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1110.14",
+            "Price HDD 256 $": "1130.14",
+            "Price HDD 512 $": "1150.14"
+        },
+        {
+            "title": "Lenovo Legion Y520-15IKBM",
+            "descriptions": [
+                "Lenovo Legion Y520-15IKBM",
+                " Black",
+                " 15.6\" FHD IPS",
+                " Core i5-7300HQ",
+                " 8 GB",
+                " 128GB SSD + 2 TB HDD",
+                " NVIDIA GeForce GTX 1060 6 GB",
+                " FreeDOS + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1112.91",
+            "Price HDD 256 $": "1132.91",
+            "Price HDD 512 $": "1152.91"
+        },
+        {
+            "title": "Toshiba Portege Z30-C-16J Grey",
+            "descriptions": [
+                "Toshiba Portege Z30-C-16J Grey",
+                " 13.3\" FHD",
+                " Core i5-6200U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1114.55",
+            "Price HDD 256 $": "1134.55",
+            "Price HDD 512 $": "1154.55"
+        },
+        {
+            "title": "Acer Predator Helios 300 (PH317-51)",
+            "descriptions": [
+                "Acer Predator Helios 300 (PH317-51)",
+                " 17.3\" FHD IPS",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050Ti 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1123.87",
+            "Price HDD 256 $": "1143.87",
+            "Price HDD 512 $": "1163.87"
+        },
+        {
+            "title": "Acer Aspire 7 A715-71G",
+            "descriptions": [
+                "Acer Aspire 7 A715-71G",
+                " 15.6\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 128GB SSD + 1TB HDD",
+                " GTX 1050 Ti 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1123.87",
+            "Price HDD 256 $": "1143.87",
+            "Price HDD 512 $": "1163.87"
+        },
+        {
+            "title": "Dell Inspiron 17 2in1 (7779) Silver",
+            "descriptions": [
+                "Dell Inspiron 17 2in1 (7779) Silver",
+                " 17.3\" FHD Touch",
+                " Core i5-7200U",
+                " 12GB",
+                " 1TB",
+                " GeForce GT940MX 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1124.20",
+            "Price HDD 256 $": "1144.2",
+            "Price HDD 512 $": "1164.2"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i5-7300U",
+                " 8GB",
+                " 500GB",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1133.82",
+            "Price HDD 256 $": "1153.82",
+            "Price HDD 512 $": "1173.82"
+        },
+        {
+            "title": "Lenovo Legion Y520",
+            "descriptions": [
+                "Lenovo Legion Y520",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 128 GB SSD + 1TB HDD",
+                " GTX 1050 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1133.91",
+            "Price HDD 256 $": "1153.91",
+            "Price HDD 512 $": "1173.91"
+        },
+        {
+            "title": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+            "descriptions": [
+                "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+                " 14\"",
+                " Core i5-4210U",
+                " 4GB",
+                " 128GB SSD",
+                " Win7 Pro 64bit",
+                " ENG"
+            ],
+            "Price HDD 128 $": "1139.54",
+            "Price HDD 256 $": "1159.54",
+            "Price HDD 512 $": "1179.54"
+        },
+        {
+            "title": "Acer Nitro 5 AN515-51",
+            "descriptions": [
+                "Acer Nitro 5 AN515-51",
+                " 15.6\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 256GB SSD +1TB",
+                " GeForce GTX 1050 Ti 4GB",
+                " Windows 10 Home + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1140.62",
+            "Price HDD 256 $": "1160.62",
+            "Price HDD 512 $": "1180.62"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i5-7440HQ",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1143.40",
+            "Price HDD 256 $": "1163.4",
+            "Price HDD 512 $": "1183.4"
+        },
+        {
+            "title": "Dell Inspiron 15 (7567) Black",
+            "descriptions": [
+                "Dell Inspiron 15 (7567) Black",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB",
+                " GeForce GTX 1050 Ti 4GB",
+                " Linux + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1144.20",
+            "Price HDD 256 $": "1164.2",
+            "Price HDD 512 $": "1184.2"
+        },
+        {
+            "title": "Dell Latitude 5580",
+            "descriptions": [
+                "Dell Latitude 5580",
+                " 15.6\" FHD",
+                " Core i5-7300U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1144.40",
+            "Price HDD 256 $": "1164.4",
+            "Price HDD 512 $": "1184.4"
+        },
+        {
+            "title": "MSI GP62M 7RDX Leopard",
+            "descriptions": [
+                "MSI GP62M 7RDX Leopard",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1149.00",
+            "Price HDD 256 $": "1169",
+            "Price HDD 512 $": "1189"
+        },
+        {
+            "title": "Lenovo Yoga 720 Grey",
+            "descriptions": [
+                "Lenovo Yoga 720 Grey",
+                " 15.6\" FHD IPS",
+                " Core i5-7300HQ",
+                " 8GB",
+                " 256GB SSD",
+                " GeForce GTX 1050 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1149.73",
+            "Price HDD 256 $": "1169.73",
+            "Price HDD 512 $": "1189.73"
+        },
+        {
+            "title": "Toshiba Portege Z30-C-16L Grey",
+            "descriptions": [
+                "Toshiba Portege Z30-C-16L Grey",
+                " 13.3\" FHD",
+                " Core i7-6500U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1154.04",
+            "Price HDD 256 $": "1174.04",
+            "Price HDD 512 $": "1194.04"
+        },
+        {
+            "title": "Acer TravelMate P645-S-511A Black",
+            "descriptions": [
+                "Acer TravelMate P645-S-511A Black",
+                " 14\" FHD IPS",
+                " Core i5-5200U",
+                " 8GB",
+                " 256GB SSD",
+                " 3G",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1170.10",
+            "Price HDD 256 $": "1190.1",
+            "Price HDD 512 $": "1210.1"
+        },
+        {
+            "title": "Dell Latitude 5580",
+            "descriptions": [
+                "Dell Latitude 5580",
+                " 15.6\" FHD",
+                " Core i5-7300U",
+                " 16GB",
+                " 256GB SSD",
+                " Linux + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1178.19",
+            "Price HDD 256 $": "1198.19",
+            "Price HDD 512 $": "1218.19"
+        },
+        {
+            "title": "MSI GS63 7RD Stealth",
+            "descriptions": [
+                "MSI GS63 7RD Stealth",
+                " 15.6\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 256GB SSD",
+                " GeForce GTX 1050 2GB",
+                " DOS + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1179.00",
+            "Price HDD 256 $": "1199",
+            "Price HDD 512 $": "1219"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i5-7300U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1187.88",
+            "Price HDD 256 $": "1207.88",
+            "Price HDD 512 $": "1227.88"
+        },
+        {
+            "title": "Acer Predator Helios 300 (PH317-51)",
+            "descriptions": [
+                "Acer Predator Helios 300 (PH317-51)",
+                " 17.3\" FHD IPS",
+                " Core i7-7700HQ. 8GB",
+                " 128GB SSD +1TB",
+                " GeForce GTX 1050Ti 4GB",
+                " Linux + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1187.98",
+            "Price HDD 256 $": "1207.98",
+            "Price HDD 512 $": "1227.98"
+        },
+        {
+            "title": "MSI GL62M 7REX",
+            "descriptions": [
+                "MSI GL62M 7REX",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 Ti 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1199.00",
+            "Price HDD 256 $": "1219",
+            "Price HDD 512 $": "1239"
+        },
+        {
+            "title": "MSI GL62M 7REX2",
+            "descriptions": [
+                "MSI GL62M 7REX2",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 Ti 2GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1199.00",
+            "Price HDD 256 $": "1219",
+            "Price HDD 512 $": "1239"
+        },
+        {
+            "title": "Lenovo Yoga 910 Grey",
+            "descriptions": [
+                "Lenovo Yoga 910 Grey",
+                " 13.9\" FHD Touch",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1199.73",
+            "Price HDD 256 $": "1219.73",
+            "Price HDD 512 $": "1239.73"
+        },
+        {
+            "title": "Toshiba Portege X30-D-10J Black/Blue",
+            "descriptions": [
+                "Toshiba Portege X30-D-10J Black/Blue",
+                " 13.3\" FHD IPS",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1203.41",
+            "Price HDD 256 $": "1223.41",
+            "Price HDD 512 $": "1243.41"
+        },
+        {
+            "title": "Lenovo IdeaPad Miix 510 Platinum Silver",
+            "descriptions": [
+                "Lenovo IdeaPad Miix 510 Platinum Silver",
+                " 12.2\" IPS Touch",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " 4G",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1212.16",
+            "Price HDD 256 $": "1232.16",
+            "Price HDD 512 $": "1252.16"
+        },
+        {
+            "title": "Acer Predator Helios 300 (PH317-51)",
+            "descriptions": [
+                "Acer Predator Helios 300 (PH317-51)",
+                " 17.3\" FHD IPS",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 Ti 4GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1221.58",
+            "Price HDD 256 $": "1241.58",
+            "Price HDD 512 $": "1261.58"
+        },
+        {
+            "title": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+            "descriptions": [
+                "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+                " 15.6\" UHD",
+                " Core i7-7700HQ",
+                " 16GB",
+                " 1TB + 256GB SSD",
+                " GeForce MX150 2GB",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1235.49",
+            "Price HDD 256 $": "1255.49",
+            "Price HDD 512 $": "1275.49"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 256GB SSD",
+                " Linux"
+            ],
+            "Price HDD 128 $": "1238.37",
+            "Price HDD 256 $": "1258.37",
+            "Price HDD 512 $": "1278.37"
+        },
+        {
+            "title": "Asus ZenBook UX530UX-FY040T Blue",
+            "descriptions": [
+                "Asus ZenBook UX530UX-FY040T Blue",
+                " 15.6\" FHD",
+                " Core i7-7500U",
+                " 8GB",
+                " 512GB SSD",
+                " GeForce GTX950M 2GB",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1239.20",
+            "Price HDD 256 $": "1259.2",
+            "Price HDD 512 $": "1279.2"
+        },
+        {
+            "title": "Asus ROG Strix GL753VE-GC096T",
+            "descriptions": [
+                "Asus ROG Strix GL753VE-GC096T",
+                " 17.3\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1050 Ti 4GB",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1259.00",
+            "Price HDD 256 $": "1279",
+            "Price HDD 512 $": "1299"
+        },
+        {
+            "title": "Apple MacBook Air 13\"",
+            "descriptions": [
+                "Apple MacBook Air 13\"",
+                " i5 1.8GHz",
+                " 8GB",
+                " 256GB SSD",
+                " Intel HD 6000",
+                " ENG"
+            ],
+            "Price HDD 128 $": "1260.13",
+            "Price HDD 256 $": "1280.13",
+            "Price HDD 512 $": "1300.13"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 1TB",
+                " GeForce GT930MX",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1271.06",
+            "Price HDD 256 $": "1291.06",
+            "Price HDD 512 $": "1311.06"
+        },
+        {
+            "title": "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+            "descriptions": [
+                "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+                " 13.3\" FHD IPS",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1273.11",
+            "Price HDD 256 $": "1293.11",
+            "Price HDD 512 $": "1313.11"
+        },
+        {
+            "title": "Toshiba Portege Z30-C-16K Grey",
+            "descriptions": [
+                "Toshiba Portege Z30-C-16K Grey",
+                " 13.3\" FHD",
+                " Core i5-6200U",
+                " 8GB",
+                " 256GB SSD",
+                " 4G",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1294.74",
+            "Price HDD 256 $": "1314.74",
+            "Price HDD 512 $": "1334.74"
+        },
+        {
+            "title": "MSI GL62VR 7RFX",
+            "descriptions": [
+                "MSI GL62VR 7RFX",
+                " 15.6\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 256GB SSD",
+                " GeForce GTX 1060 3GB",
+                " Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1299.00",
+            "Price HDD 256 $": "1319",
+            "Price HDD 512 $": "1339"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1310.39",
+            "Price HDD 256 $": "1330.39",
+            "Price HDD 512 $": "1350.39"
+        },
+        {
+            "title": "Hewlett Packard ProBook 640 G3",
+            "descriptions": [
+                "Hewlett Packard ProBook 640 G3",
+                " 14\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1326.83",
+            "Price HDD 256 $": "1346.83",
+            "Price HDD 512 $": "1366.83"
+        },
+        {
+            "title": "Apple MacBook Pro 13\" Space Gray",
+            "descriptions": [
+                "Apple MacBook Pro 13\" Space Gray",
+                " Core i5 2.3GHz",
+                " 8GB",
+                " 128GB SSD",
+                " Iris Plus 640",
+                " ENG"
+            ],
+            "Price HDD 128 $": "1333.00",
+            "Price HDD 256 $": "1353",
+            "Price HDD 512 $": "1373"
+        },
+        {
+            "title": "Dell Latitude 5580",
+            "descriptions": [
+                "Dell Latitude 5580",
+                " 15.6\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 256GB SSD",
+                " GeForce GT930MX",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1337.28",
+            "Price HDD 256 $": "1357.28",
+            "Price HDD 512 $": "1377.28"
+        },
+        {
+            "title": "Dell Latitude 5480",
+            "descriptions": [
+                "Dell Latitude 5480",
+                " 14\" FHD",
+                " Core i7-7600U",
+                " 8GB",
+                " 256GB SSD",
+                " Linux + Windows 10 Home"
+            ],
+            "Price HDD 128 $": "1338.37",
+            "Price HDD 256 $": "1358.37",
+            "Price HDD 512 $": "1378.37"
+        },
+        {
+            "title": "Dell Latitude 5580",
+            "descriptions": [
+                "Dell Latitude 5580",
+                " 15.6\" FHD",
+                " Core i7-7600U",
+                " 16GB",
+                " 256GB SSD",
+                " GeForce GT930MX",
+                " Linux"
+            ],
+            "Price HDD 128 $": "1341.22",
+            "Price HDD 256 $": "1361.22",
+            "Price HDD 512 $": "1381.22"
+        },
+        {
+            "title": "Apple MacBook Air 13\"",
+            "descriptions": [
+                "Apple MacBook Air 13\"",
+                " Intel Core i5 1.8GHz",
+                " 8GB",
+                " 256GB SSD",
+                " Intel HD 6000",
+                " RUS"
+            ],
+            "Price HDD 128 $": "1347.78",
+            "Price HDD 256 $": "1367.78",
+            "Price HDD 512 $": "1387.78"
+        },
+        {
+            "title": "Lenovo ThinkPad T470",
+            "descriptions": [
+                "Lenovo ThinkPad T470",
+                " 14\" FHD IPS",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1349.23",
+            "Price HDD 256 $": "1369.23",
+            "Price HDD 512 $": "1389.23"
+        },
+        {
+            "title": "Lenovo ThinkPad Yoga 370 Black",
+            "descriptions": [
+                "Lenovo ThinkPad Yoga 370 Black",
+                " 13.3\" FHD IPS Touch",
+                " Core i5-7200U",
+                " 8GB",
+                " 256GB SSD",
+                " 4G",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1362.24",
+            "Price HDD 256 $": "1382.24",
+            "Price HDD 512 $": "1402.24"
+        },
+        {
+            "title": "Toshiba Portege X20W-D-10V Black/Blue",
+            "descriptions": [
+                "Toshiba Portege X20W-D-10V Black/Blue",
+                " 12.5\" FHD Touch",
+                " Core i7-7500U",
+                " 8GB",
+                " 512GB SSD",
+                " Windows 10 Pro"
+            ],
+            "Price HDD 128 $": "1366.32",
+            "Price HDD 256 $": "1386.32",
+            "Price HDD 512 $": "1406.32"
+        },
+        {
+            "title": "Asus ASUSPRO B9440UA-GV0279R Gray",
+            "descriptions": [
+                "Asus ASUSPRO B9440UA-GV0279R Gray",
+                " 14\" FHD",
+                " Core i7-7500U",
+                " 16GB",
+                " 512GB SSD",
+                " Windows 10 Pro",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1381.13",
+            "Price HDD 256 $": "1401.13",
+            "Price HDD 512 $": "1421.13"
+        },
+        {
+            "title": "Asus ROG Strix GL702VM-GC146T",
+            "descriptions": [
+                "Asus ROG Strix GL702VM-GC146T",
+                " 17.3\" FHD",
+                " Core i7-7700HQ",
+                " 8GB",
+                " 1TB + 128GB SSD",
+                " GeForce GTX 1060 3GB",
+                " Windows 10 Home",
+                " Eng kbd"
+            ],
+            "Price HDD 128 $": "1399.00",
+            "Price HDD 256 $": "1419",
+            "Price HDD 512 $": "1439"
+        }
+    ]
+}
