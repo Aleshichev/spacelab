@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from time import sleep
+from log import logger
+
 
 XPATH = '/html/body/div[1]/div[3]/div/div[2]/div/div/div[2]'
 
@@ -15,6 +17,7 @@ def enter_data(driver, number):
 
 
 def find_price(link):
+    logger.info(f'Enter in the find_price() function data = {link}')
     options = Options()
     options.add_argument('-headless')
     driver = webdriver.Firefox(options=options)
@@ -31,5 +34,5 @@ def find_price(link):
     price_hdd_512 = price_hdd(driver)
 
     driver.quit()
-    
+    logger.info(f'return ,price_hdd_512={price_hdd_512}, price_hdd_256={price_hdd_256}')
     return price_hdd_256, price_hdd_512

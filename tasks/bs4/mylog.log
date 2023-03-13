@@ -1,0 +1,19 @@
+2023-03-13T10:43:20.865814+0200 INFO Enter in the scrape_laptops() function data = 19, 1, {'laptops': []}
+2023-03-13T10:43:20.868779+0200 INFO Enter in the get_soup() with link_html
+2023-03-13T10:43:21.381774+0200 INFO return soup
+2023-03-13T10:43:21.387776+0200 INFO Enter in the get_soup() with link_html
+2023-03-13T10:43:21.869117+0200 INFO return soup
+2023-03-13T10:43:21.876118+0200 INFO Enter in the find_price() function data = /test-sites/e-commerce/static/product/630
+2023-03-13T10:43:35.077597+0200 INFO return ,price_hdd_512=1406.32, price_hdd_256=1386.32
+2023-03-13T10:43:35.079594+0200 INFO Enter in the get_soup() with link_html
+2023-03-13T10:43:39.624317+0200 INFO return soup
+2023-03-13T10:43:39.632974+0200 INFO Enter in the find_price() function data = /test-sites/e-commerce/static/product/631
+2023-03-13T10:43:52.858362+0200 INFO return ,price_hdd_512=1421.13, price_hdd_256=1401.13
+2023-03-13T10:43:52.865359+0200 INFO Enter in the get_soup() with link_html
+2023-03-13T10:43:57.426258+0200 INFO return soup
+2023-03-13T10:43:57.431257+0200 INFO Enter in the find_price() function data = /test-sites/e-commerce/static/product/632
+2023-03-13T10:44:10.430964+0200 INFO return ,price_hdd_512=1439, price_hdd_256=1419
+2023-03-13T10:44:14.475488+0200 INFO Enter in the get_soup() with link_html
+2023-03-13T10:44:14.968793+0200 INFO return soup
+2023-03-13T10:44:14.975099+0200 ERROR Страницы закончились
+2023-03-13T10:44:14.978097+0200 INFO Файл data.json создан
