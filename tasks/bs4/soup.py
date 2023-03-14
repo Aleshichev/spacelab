@@ -8,6 +8,7 @@ def get_soup(link_html):
 
         try:
                 response = requests.get(link_html)
+                logger.info(f'response {response.status_code}')
                 html_page_text = response.text
                 soup = BeautifulSoup(html_page_text, "html.parser")
                 logger.info(f'return soup')
