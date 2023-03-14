@@ -7,7 +7,7 @@ from log import logger
 
 BASE_HTML = "https://webscraper.io/test-sites/e-commerce/static/computers/laptops" 
 
-number = 0
+number = 19
 flag = 1
 data = {'laptops': []}
 
