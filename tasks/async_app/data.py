@@ -1,5 +1,5 @@
 import httpx
-from models import Post, User
+from database.models import Post, User
 from tortoise import Tortoise, run_async
 
 
@@ -30,7 +30,7 @@ async def connect_db():
     
     await Tortoise.init(
       db_url='sqlite://sql_app.db',
-      modules={'models': ['models']},)
+      modules={'models': ['database.models']},)
 
     await Tortoise.generate_schemas()
 

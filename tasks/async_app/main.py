@@ -2,8 +2,7 @@
 from typing import List
 
 from fastapi import FastAPI, HTTPException
-from models import (Post, User, User_Pydantic, User_Pydantic_List,
-                    UserIn_Pydantic)
+from database.models import Post, User, User_Pydantic, UserIn_Pydantic
 from pydantic import BaseModel
 from tortoise.contrib.fastapi import HTTPNotFoundError, register_tortoise
 
@@ -33,8 +32,11 @@ async def get_user(user_id: int):
     "/user/posts/{user_id}", responses={404: {"model": HTTPNotFoundError}}
 )
 async def get_user_posts(user_id: int):
+    
     user = await User.get(id=user_id)
     posts = await Post.filter(user=user)
+    if posts == []:
+        return {"message": f"У пользователя {user.name} нет постов"}
     
     return {
             "User_name": user.name,
@@ -76,7 +78,7 @@ async def delete_user(user_id: int):
 register_tortoise(
     app,
     db_url='sqlite://sql_app.db',
-    modules={'models': ['models']},
+    modules={'models': ['database.models']},
     generate_schemas=True,
     add_exception_handlers=True,
 )
